@@ -2,6 +2,8 @@
 
 ![Agricultural Production & Sales Dashboard](Dashboard/Dashboard.png)
 
+Tools: Power BI
+
 ## Project Overview
 
 This project analyzes agricultural production and sales performance throughout 2020 using simulated data inspired by a small agricultural business in Costa Rica.
